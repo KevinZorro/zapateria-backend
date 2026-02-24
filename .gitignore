@@ -1,0 +1,22 @@
+# Entornos
+env/
+venv/
+ENV/
+
+# DB
+db.sqlite3
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+
+# Logs/Secrets
+*.log
+.env
+*.key
+
+# Media (sube vacío)
+media/
